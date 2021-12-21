@@ -1,0 +1,14 @@
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\bin\Release\CloudFlareWARPTool.exe.config
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\bin\Release\CloudFlareWARPTool.exe
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\bin\Release\CloudFlareWARPTool.pdb
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\bin\Release\Newtonsoft.Json.dll
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\bin\Release\Newtonsoft.Json.xml
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.csproj.AssemblyReference.cache
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.csproj.SuggestedBindingRedirects.cache
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.MainForm.resources
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.Properties.Resources.resources
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.csproj.GenerateResource.cache
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.csproj.CoreCompileInputs.cache
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.csproj.CopyComplete
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.exe
+D:\User Data\repos\CloudFlareWARPTool\CloudFlareWARPTool\obj\Release\CloudFlareWARPTool.pdb
